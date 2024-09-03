@@ -117,69 +117,71 @@ table{
 
 @media screen and (max-width:640px) {
     .contain{
-    margin-top: 600px;
+    /* margin-top: 1000px; */
+    padding-top: 700px;
         }
     } 
     
-@media screen and (max-width:750px) {
+ @media screen and (max-width:750px) {
+    .contain{
+    margin-top: 200px !important  ;
+    margin-top: 800px;
+        }
+    } 
+    
+  @media screen and (max-width:530px) {
     .contain{
     margin-top: 400px;
         }
-    } 
-    
-@media screen and (max-width:530px) {
-    .contain{
-    margin-top: 900px;
-        }
-    } 
+    }  
 
-    @media screen and (max-width:533px) {
+    /* @media screen and (max-width:616px) {
         .contain{
-        margin-top: 900px;
+        margin-top: 40000px;
             }
-        } 
+        }   */
 
 
-        @media screen and (max-width:776px) {
+         @media screen and (max-width:776px) {
             .contain{
-            margin-top: 400px;
+            margin-top: 200px;
                 }
             } 
             
-@media screen and (max-width:766px) {
+/* @media screen and (max-width:766px) {
     .contain{
-    margin-top: 200px;
+    margin-top: 100px;
         }
-    } 
-    
+    }  */
+   
 @media screen and (max-width:525px) {
     .contain{
-    margin-top: 1000px;
+    margin-top: 500px;
         }
     } 
-
+ 
     @media screen and (max-width:826px) {
         .contain{
-        margin-top: 300px;
+        margin-top: 150px;
             }
         } 
 
         @media screen and (max-width:1016px) {
             .contain{
-            margin-top: 900px;
+            margin-top: 200px;
                 }
             } 
-
+/* 
             @media screen and (max-width:430px) {
                 .contain{
-                margin-top: 800px;
+                margin-top: 400px;
                     }
                 } 
 
 
                 @media screen and (max-width:430px) {
                     .contain{
-                    margin-top: 900px;
+                    margin-top: 400px;
                         }
                     } 
-
+  */
